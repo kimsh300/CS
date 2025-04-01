@@ -1,4 +1,4 @@
-# CS
+# network
 
 ### OSI 7계층
 * OSI(Open Systems Interconnection Reference Model)란
