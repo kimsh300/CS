@@ -1,6 +1,6 @@
-1. network
-2. Data Structure
-3. DataBase
-5. Algorithm
-6. Java
-7. Spring
+1. [Network](./network.md)
+2. [Data Structure](./data-structure.md)
+3. [Database](./database.md)
+4. [Algorithm](./algorithm.md)
+5. [Java](./java.md)
+6. [Spring](./spring.md)
