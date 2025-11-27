@@ -375,17 +375,6 @@ public class Circle extends Shape {
 - [Java Design Patterns](https://java-design-patterns.com/)
 
 ---
-
-## 📝 License
-
-MIT License
-
----
-
 <div align="center">
-
-**⭐ 도움이 되었다면 Star를 눌러주세요! ⭐**
-
-Made with ☕ by [Your Name]
-
 </div>
+
