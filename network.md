@@ -2185,9 +2185,6 @@ public class DataTransmission {
 ```
 
 ---
-
-## 참고 자료
-
 ### 공식 문서
 - [RFC 793 - TCP](https://tools.ietf.org/html/rfc793)
 - [RFC 9293 - TCP (Updated)](https://datatracker.ietf.org/doc/html/rfc9293)
@@ -2202,18 +2199,3 @@ public class DataTransmission {
 - MDN Web Docs - HTTP
 - AWS - Networking Fundamentals
 
----
-
-## 정리
-
-이 문서는 네트워크의 핵심 개념들을 다루었습니다:
-
-1. **OSI 7계층**: 네트워크 통신의 표준 모델
-2. **TCP/IP**: 인터넷의 기반 프로토콜
-3. **TCP vs UDP**: 신뢰성 vs 속도
-4. **HTTP/HTTPS**: 웹 통신 프로토콜
-5. **REST API**: 웹 서비스 설계 원칙
-6. **WebSocket**: 실시간 양방향 통신
-7. **네트워크 보안**: HTTPS, CORS, 인증
-
-각 주제는 이론과 실제 구현 예제를 포함하여 실무에 바로 적용할 수 있도록 구성되었습니다.
